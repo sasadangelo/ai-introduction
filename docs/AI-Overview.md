@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence Overview
 
 This document will explain the basics of Artificial Intelligence (AI), providing a foundational understanding of what AI is, its core concepts, and its importance in today's world.
 
