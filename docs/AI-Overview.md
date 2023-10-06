@@ -70,9 +70,7 @@ AI serves various functionalities across domains:
 * **Visual AI:** Visual AI processes and interprets visual data, including facial and image recognition, enabling applications like security systems and autonomous vehicles.
 * **Text AI:** Text AI specializes in processing and analyzing textual data, including natural language understanding and text generation. It's the foundation for chatbots, sentiment analysis, and language translation.
 
-![AI Functionalities](img/AI-Functionalities.png)
-
-### How AI Works
+## How does AI Work?
 
 AI systems operate through algorithms and data processing methods, often involving machine learning and deep learning techniques. These algorithms enable AI to make predictions, recognize patterns, and provide meaningful outputs. Key components of AI include:
 
