@@ -29,7 +29,7 @@ To grasp the essence of artificial intelligence, it's essential to explore three
 * **How does AI do it?**
 * **What are its limits?**
 
-### What AI Can Do?
+## What AI Can Do?
 
 To understand what AI can do you need to classify AI by Capabilities, Types, and Functionalities.
 
