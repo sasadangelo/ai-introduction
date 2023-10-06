@@ -31,6 +31,15 @@ To grasp the essence of artificial intelligence, it's essential to explore three
 
 ### What AI Can Do?
 
+To understand what AI can do you need to classify AI by Capabilities, Types, and Functionalities.
+
+* **Capabilities**: Narrow AI, General AI, Super AI.
+* **Functionalities**: Interactive AI, Functional AI, Analitic AI, Visual AI, Text AI.
+* **Types**: Reactive Machine, Limited Memory, Theory of Mind, Self Awareness
+
+
+
+
 AI's capabilities can be classified based on its type and functionality.
 
 #### AI Types
