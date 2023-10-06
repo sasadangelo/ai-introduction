@@ -87,6 +87,26 @@ Within each of these areas, there are specific tasks and algorithms that enable 
 
 ## How does AI Work?
 
+Once we've clarified what AI can do and understood that AI applications are essentially combinations of classical programming algorithms and basic AI tasks, it's important to recognize that there isn't a single approach to achieving these tasks. Over the years, several distinct areas have developed, all falling under the umbrella of Artificial Intelligence.
+
+* **Expert Systems**: Expert systems rely on pre-defined rules and knowledge bases to make decisions and solve problems. They excel in well-defined domains and are commonly used in areas like medical diagnosis and decision support systems.
+* **Evolutionary Computation**: This branch harnesses the principles of natural selection to evolve solutions to complex problems. Genetic algorithms, a prominent example, optimize solutions through simulated evolution.
+* **Machine Learning (ML)**: Machine learning, the most prominent and widely applied branch of AI, empowers computers to learn from data and improve their performance over time. Within machine learning, one area has garnered significant attention: Deep Learning.
+
+Deep learning is a subset of machine learning that has revolutionized AI capabilities, particularly in tasks related to perception and understanding. At its core, deep learning involves artificial neural networks inspired by the human brain. These networks consist of interconnected layers of neurons that can automatically learn to represent data.
+
+Within the realm of deep learning, two crucial subfields have emerged:
+
+* **Generative AI**: Generative models have the remarkable ability to create new data that resembles existing data. They are employed in tasks like image generation, text-to-speech synthesis, and data augmentation.
+* **Foundation Models**: These are large-scale deep learning models that serve as the basis for a wide range of AI applications. Examples include BERT (Bidirectional Encoder Representations from Transformers) for natural language understanding and GPT (Generative Pre-trained Transformer) for various language generation tasks.
+
+![AI Areas](img/AI-Areas.png)
+
+
+
+
+
+
 AI systems operate through algorithms and data processing methods, often involving machine learning and deep learning techniques. These algorithms enable AI to make predictions, recognize patterns, and provide meaningful outputs. Key components of AI include:
 
 - **Data:** AI requires large amounts of data for training and fine-tuning its models. Datasets are essential for building AI systems that can generalize from examples.
