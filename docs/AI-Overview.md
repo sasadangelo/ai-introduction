@@ -37,6 +37,7 @@ To understand what AI can do you need to classify AI by Capabilities, Types, and
 * **Functionalities**: Interactive AI, Functional AI, Analitic AI, Visual AI, Text AI.
 * **Types**: Reactive Machine, Limited Memory, Theory of Mind, Self Awareness
 
+![AI History](img/AI-Capabilities.png)
 
 
 
