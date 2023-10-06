@@ -70,6 +70,19 @@ AI serves various functionalities across domains:
 * **Visual AI:** Visual AI processes and interprets visual data, including facial and image recognition, enabling applications like security systems and autonomous vehicles.
 * **Text AI:** Text AI specializes in processing and analyzing textual data, including natural language understanding and text generation. It's the foundation for chatbots, sentiment analysis, and language translation.
 
+### Traditional AI areas and tasks
+
+Artificial Intelligence encompasses a wide range of tasks and capabilities, typically categorized into six major areas:
+
+* **Computer Vision**: This field focuses on enabling machines to interpret and understand visual information from images and videos, including tasks like image classification, object detection, and facial recognition.
+* **Natural Language Processing (NLP)**: NLP deals with enabling machines to understand and generate human language. Tasks within NLP include sentiment analysis, language translation, and text summarization.
+* **Multi-Modal AI**: Multi-modal AI combines information from various sources, such as text, images, and audio, to gain a deeper understanding of data and context, enabling applications like multimedia content analysis.
+* **Audio Processing**: This area involves processing and analyzing audio data, including speech recognition and music recommendation systems.
+* **Reinforcement Learning**: Reinforcement learning is a subset of machine learning that focuses on training agents to make sequential decisions in an environment, commonly used in robotics and game AI.
+* **Tabular Data Analysis**: Tabular data analysis involves working with structured data in tables or databases, commonly used in financial analysis and data reporting.
+
+Within each of these areas, there are specific tasks and algorithms that enable AI systems to perform various functions. These tasks, when combined with classical programming algorithms, contribute to the automation and bridge the gap between human and machine capabilities, ushering in an era of increased automation and intelligent decision-making.
+
 ## How does AI Work?
 
 AI systems operate through algorithms and data processing methods, often involving machine learning and deep learning techniques. These algorithms enable AI to make predictions, recognize patterns, and provide meaningful outputs. Key components of AI include:
