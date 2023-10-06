@@ -8,6 +8,8 @@ Artificial intelligence (AI) is the intelligence exhibited by machines, encompas
 
 ## A Brief History of AI
 
+This is a brief history of the AI:
+
 ![AI History](img/AI-History.png)
 
 - In 1950, Alan Turing published "Computing Machinery and Intelligence," which laid the groundwork for the concept of AI.
