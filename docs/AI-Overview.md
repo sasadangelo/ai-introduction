@@ -83,7 +83,7 @@ Artificial Intelligence encompasses a wide range of tasks and capabilities, typi
 
 Within each of these areas, there are specific tasks and algorithms that enable AI systems to perform various functions. These tasks, when combined with classical programming algorithms, contribute to the automation and bridge the gap between human and machine capabilities, ushering in an era of increased automation and intelligent decision-making.
 
-![AI History](img/AI-Task-Areas.png)
+![AI Task Areas](img/AI-Task-Areas.png)
 
 ## How does AI Work?
 
