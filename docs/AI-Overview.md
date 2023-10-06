@@ -25,7 +25,11 @@ This is a brief history of the AI:
 
 To grasp the essence of artificial intelligence, it's essential to explore three fundamental aspects:
 
-### What AI Can Do
+* **What AI can do?**
+* **How does AI do it?**
+* **What are its limits?**
+
+### What AI Can Do?
 
 AI's capabilities can be classified based on its type and functionality.
 
