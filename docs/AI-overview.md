@@ -8,6 +8,8 @@ Artificial intelligence (AI) is the intelligence exhibited by machines, encompas
 
 ## A Brief History of AI
 
+![docs/AI-History.png]
+
 - In 1950, Alan Turing published "Computing Machinery and Intelligence," which laid the groundwork for the concept of AI.
 - In 1956, John McCarthy coined the term "Artificial Intelligence" and organized the Dartmouth Workshop, a pivotal moment in AI history.
 - In 1957, Frank Rosenblatt constructed the Mark 1 perceptron, an early form of a machine learning algorithm inspired by the human brain.
