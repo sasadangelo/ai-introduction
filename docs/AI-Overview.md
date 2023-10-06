@@ -39,9 +39,15 @@ To understand what AI can do you need to classify AI by Capabilities, Types, and
 
 ![What AI Can Do?](img/What-AI-Can-Do.png)
 
+### AI Capabilities
 
+In artificial intelligence, ANI, AGI, and ASI are acronyms that refer to different capabilities of artificial intelligence:
 
-AI's capabilities can be classified based on its type and functionality.
+* **Artificial Narrow Intelligence (ANI)**, which refers to AI systems that are able to perform specific tasks autonomously, but lack general cognitive abilities like those of humans. An example of ANI is voice recognition on a smartphone. ChatGPT is in this class.
+* **Artificial General Intelligence (AGI)**, which refers to AI systems that have the ability to perform generic intellectual tasks, such as the ability to learn and solve problems, similar to human intelligence. AGI is considered a step beyond ANI and is still largely a theoretical concept.
+* **Artificial Superintelligence (ASI)**, which refers to hypothetical AI systems that would surpass human intelligence in all areas. ASI is currently purely hypothetical, and its development could potentially lead to a technological singularity.
+
+![AI Capabilities](img/AI-Capabilities.png)
 
 #### AI Types
 
