@@ -49,29 +49,28 @@ In artificial intelligence, ANI, AGI, and ASI are acronyms that refer to differe
 
 ![AI Capabilities](img/AI-Capabilities.png)
 
-#### AI Types
+### AI Types
 
-1. **Reactive Machines:** These AI systems operate based on pre-defined rules and do not learn from experience. They excel in specific tasks but lack adaptability.
+The type of AI in operation based on functionalities can be classified into:
 
-2. **Limited Memory AI:** Limited memory AI systems can learn from past experiences to some extent but still have limitations in long-term learning.
+* **Reactive Machines**, designed for a specific task, this AI receives input, and acts on this input. They cannot be applied to different tasks, and past experience doesn’t affect the current decision. Examples are AI chess players.
+* **Limited Memory AI**, this types of AI receives current input, and add pieces of this input to its programmed representation of the world. This can change the way the AI makes current or new decisions. Examples are virtual assistant like Siri, Alexa, etc.
+* **Self Aware**, this is advanced artificial intelligence with self-awareness and self-monitoring capabilities, raising ethical and philosophical questions about artificial consciousness.
+* **Theory of Mind**, which refers to hypothetical AI systems that would surpass human intelligence in all areas. ASI is currently purely hypothetical, and its development could potentially lead to a technological singularity.
 
-3. **Self-Aware AI:** These systems possess self-awareness and a deeper understanding of their environment, allowing them to adapt and learn over time.
+![AI Types](img/AI-Types.png)
 
-4. **Theory of Mind AI:** Theory of Mind AI can understand the emotions, beliefs, and intentions of other entities, which is essential for human-like interaction.
-
-#### AI Functionalities
+### AI Functionalities
 
 AI serves various functionalities across domains:
 
-- **Interactive AI:** These AI systems can interact with users naturally and provide assistance. Examples include Siri and Alexa, which respond to voice commands and queries.
+* **Interactive AI:** These AI systems can interact with users naturally and provide assistance. Examples include Siri and Alexa, which respond to voice commands and queries.
+* **Functional AI:** AI is developed to perform specific functions in various domains, such as recommendation systems that suggest products or content and chatbots that engage in conversation with users.
+* **Analytic AI:** AI algorithms are employed to analyze large datasets and extract meaningful insights, applied in market analysis, fraud detection, medical diagnostics, and more.
+* **Visual AI:** Visual AI processes and interprets visual data, including facial and image recognition, enabling applications like security systems and autonomous vehicles.
+* **Text AI:** Text AI specializes in processing and analyzing textual data, including natural language understanding and text generation. It's the foundation for chatbots, sentiment analysis, and language translation.
 
-- **Functional AI:** AI is developed to perform specific functions in various domains, such as recommendation systems that suggest products or content and chatbots that engage in conversation with users.
-
-- **Analytic AI:** AI algorithms are employed to analyze large datasets and extract meaningful insights, applied in market analysis, fraud detection, medical diagnostics, and more.
-
-- **Visual AI:** Visual AI processes and interprets visual data, including facial and image recognition, enabling applications like security systems and autonomous vehicles.
-
-- **Text AI:** Text AI specializes in processing and analyzing textual data, including natural language understanding and text generation. It's the foundation for chatbots, sentiment analysis, and language translation.
+![AI Functionalities](img/AI-Functionalities.png)
 
 ### How AI Works
 
